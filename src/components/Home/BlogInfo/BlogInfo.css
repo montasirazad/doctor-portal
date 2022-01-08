@@ -1,0 +1,14 @@
+.blogInfo{
+    width: 330px;
+    height: 330px;
+    border-radius: 3px;
+    padding: 20px;
+    margin-bottom: 50px;
+    background: rgb(2,0,36);
+    background: linear-gradient(61deg, rgba(2,0,36,1) 0%, rgba(22,237,166,1) 0%, rgba(5,233,215,1) 62%, rgba(0,212,255,1) 100%);
+}
+
+.blogInfo img {
+    height: 60px;
+    width: 60px;
+}

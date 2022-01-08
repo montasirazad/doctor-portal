@@ -15,7 +15,7 @@ const Appointment = () => {
 
             <div className='mt-5 align-items-center'>
                 <h5>APPOINTMENT</h5>
-                <h4 className='text-white'>Make am appointment <br /> Today</h4>
+                <h4 className='text-white'>Make an appointment <br /> Today</h4>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam consectetur quaerat,<br />
                     aliquid harum autem quos sint blanditiis accusantium vel ut.</p>
                     <button className='btn btn-primary'>Learn More</button>
