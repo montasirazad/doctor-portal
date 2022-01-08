@@ -1,6 +1,6 @@
 import React from 'react';
 import Treatment from '../../../images/treatment.png'
-const FeatureServiece = () => {
+const FeatureService = () => {
     return (
         <section className='d-flex  flex-wrap justify-content-center mt-5 gap-5'>
 
@@ -25,4 +25,4 @@ const FeatureServiece = () => {
     );
 };
 
-export default FeatureServiece;
+export default FeatureService;

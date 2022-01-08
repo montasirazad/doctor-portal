@@ -1,0 +1,17 @@
+.test{
+    background-image: url('../../../images/appointment-bg.png');
+    height:450px;
+    width:100%;
+    margin-left: 0;
+    margin-right: 0;
+    /* margin-bottom: 50px; */
+    margin-top: 200px;
+     
+}
+ 
+#doctor{
+    height: 600px;
+    position: relative;
+    bottom: 150px;
+     
+}
