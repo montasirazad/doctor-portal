@@ -1,8 +1,6 @@
 import React from 'react';
-import doctor from '../../../images/doctor.png'
-import doctorSmall from '../../../images/doctor-small.png'
-import appointment from '../../../images/appointment-bg.png'
-import './Appointment.css'
+import doctor from '../../../images/doctor.png';
+import './Appointment.css';
 
 const Appointment = () => {
     return (
