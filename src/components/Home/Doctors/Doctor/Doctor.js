@@ -15,8 +15,8 @@ const Doctor = ({ doctor }) => {
 
             <h6 className='mt-2' >{doctor.name}</h6>
             <div className='d-flex p-2'>
-                <FontAwesomeIcon className='text-primary me-1' style={{ fontSize: '2em' }} icon={faPhoneSquare}></FontAwesomeIcon>
-                <p>{doctor.phn}</p>
+
+                <p> <FontAwesomeIcon className='text-primary me-1' style={{ fontSize: '20px' }} icon={faPhoneSquare}></FontAwesomeIcon> {doctor.phn}</p>
 
             </div>
         </div>
