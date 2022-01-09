@@ -1,8 +1,8 @@
 import React from 'react';
 import doctor from '../../../images/doctor.png';
-import './Appointment.css';
+import './Schedule.css';
 
-const Appointment = () => {
+const Schedule = () => {
     return (
         <div className=' d-flex test'>
 
@@ -12,8 +12,8 @@ const Appointment = () => {
             </div>
 
             <div className='mt-5 align-items-center'>
-                <h5>APPOINTMENT</h5>
-                <h4 className='text-white'>Make an appointment <br /> Today</h4>
+                <h5>Appointment</h5>
+                <h4 className='text-white'>Make an Appointment <br /> Today</h4>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quisquam consectetur quaerat,<br />
                     aliquid harum autem quos sint blanditiis accusantium vel ut.</p>
                     <button className='btn btn-primary'>Learn More</button>
@@ -23,4 +23,4 @@ const Appointment = () => {
     );
 };
 
-export default Appointment;
+export default Schedule;
