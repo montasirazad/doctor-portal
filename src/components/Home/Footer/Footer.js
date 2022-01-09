@@ -35,7 +35,7 @@ const Footer = () => {
             </div>
 
             <div className="d-flex justify-content-center py-4 my-4 border-top">
-                <p>&copy; 2021 Company, Inc. All rights reserved.</p>
+                <p>&copy; {(new Date()).getFullYear()} All rights reserved.</p>
 
             </div>
         </footer>
